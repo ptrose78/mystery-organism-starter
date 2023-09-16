@@ -1,4 +1,4 @@
-// Returns a random DNA base
+// Returns a random DNA base!!!
 const returnRandBase = () => {
   const dnaBases = ['A', 'T', 'C', 'G'];
   return dnaBases[Math.floor(Math.random() * 4)];
@@ -12,10 +12,8 @@ const mockUpStrand = () => {
   }
   return newStrand;
 };
-
-
-
-
+console.log('hi');
+console.log('hi');
 
 
 
